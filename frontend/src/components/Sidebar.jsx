@@ -47,10 +47,7 @@ export default function Sidebar({ setView, view }) {
         </nav>
       </div>
 
-      <div className="pl-2 flex flex-col gap-1 border-t border-white/[0.04] pt-4">
-        <span className="text-xs text-slate-400 font-medium">Productivity OS</span>
-        <span className="text-[10px] text-slate-600">v1.1.0 • Smooth Performance</span>
-      </div>
+      
     </div>
   );
 }
